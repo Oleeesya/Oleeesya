@@ -1,5 +1,5 @@
 ### 👋 Привет, меня зовут Олеся
-&nbsp;
+
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я Frontend Developer 
 - :eyes: Развиваюсь в веб-разработке
