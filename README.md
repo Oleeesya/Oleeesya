@@ -27,6 +27,6 @@
 &nbsp;
 
 
-### Моя статистика:
+🏆 ### Моя статистика:
 
 [![codewars](https://www.codewars.com/users/Oleeesya/badges/large)](https://www.codewars.com/users/Oleeesya)   
