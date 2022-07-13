@@ -3,7 +3,7 @@
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я Frontend Developer 
 - :eyes: Развиваюсь в веб-разработке
-- :school: Хочу осваивать и применять новые технологии
+- :school: Осваиваю и применяю новые технологии
 - :dart: Нравится видеть результат своей работы
 
 
