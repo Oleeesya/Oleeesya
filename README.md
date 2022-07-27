@@ -31,6 +31,11 @@
 
 [![codewars](https://www.codewars.com/users/Oleeesya/badges/large)](https://www.codewars.com/users/Oleeesya)   
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
 ### ✉️ Мои контакты:
 
 - telegram: @oprokopieva
