@@ -32,5 +32,3 @@
 # ✉️ Мои контакты:
 
 - telegram: @oprokopieva
-- balym.olesya@mail.ru
-
